@@ -22,9 +22,14 @@ I'm a Fullstack Developer with 3+ years of experience in the environmental healt
 
 ## GitHub Stats
 
-![Fauzan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzanr23&show_icons=true&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fauzanr23&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fauzanr23&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanr23&layout=compact&hide_border=true&cache_seconds=1800)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fauzanr23&theme=tokyonight" />
+</p>
 
 ---
 
