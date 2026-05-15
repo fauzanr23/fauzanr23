@@ -1,6 +1,6 @@
 ## Hi, I'm Fauzan Rachmatullah
 
-I'm a Fullstack Developer with 3+ years of experience in the environmental health field, now applying that domain knowledge to build web and mobile applications across the full stack — from responsive UIs to scalable backend services and APIs.
+I'm a Fullstack Developer with 6 years of experience in the public health field with environmental health as my specialisation, now applying that domain knowledge to build web and mobile applications across the full stack — from responsive UIs to scalable backend services and APIs.
 
 ---
 
