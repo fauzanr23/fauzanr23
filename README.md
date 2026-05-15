@@ -63,6 +63,103 @@ I'm a Fullstack Developer with 3+ years of experience in the environmental healt
 
 ---
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3> ResQ — Disaster Relief App</h3>
+      <p>A phone application that connects disaster-affected people with volunteers, equipped with an interactive map showing danger zones, request coordinates, and AI-powered urgency scoring.</p>
+      <p><a href="https://github.com/fp-hck-093/resQ-app">Repo</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Interactive map with danger zones &amp; location watchlist</li>
+        <li>AI urgency score analysis via queue-based processing</li>
+        <li>Full-stack mobile app (React Native + NestJS)</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🛒 ALNS — E-Commerce Platform</h3>
+      <p>A web-based e-commerce app built with Next.js, featuring carousel banners, infinite scrolling, debounce search, sort, and filter. Developed in one week as a full-stack developer.</p>
+      <p><a href="https://github.com/fauzanr23/ALNS">Repo</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Carousel banners &amp; infinite scrolling products</li>
+        <li>Debounce search, sort, and filter</li>
+        <li>JWT auth with Zod validation</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Medinear — Health Consultation App</h3>
+      <p>A web-based health consultation app where users can find, book, and communicate with doctors via real-time chat. Features AI-powered doctor recommendations using Gemini.</p>
+      <p><a href="https://github.com/orgs/GP-Group-2-HCK93/repositories">Repo</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/WebSocket-4353FF?style=for-the-badge&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+      </p>
+      <ul>
+        <li>Real-time doctor-patient chat via WebSocket</li>
+        <li>Gemini AI doctor recommendation based on symptoms</li>
+        <li>Booking &amp; consultation management system</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>EnviroRisk — Health Monitoring Dashboard</h3>
+      <p>A web-based health dashboard for public health workers covering dengue, weather, and AQI data. Gemini AI provides public health action recommendations based on location and user data.</p>
+      <p><a href="https://github.com/fauzanr23/EnviroRisk">Repo</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+      </p>
+      <ul>
+        <li>AQI data from IQAir 3rd-party API integration</li>
+        <li>Gemini AI dengue &amp; air quality recommendations</li>
+        <li>Google OAuth login &amp; Jest/Supertest test coverage</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>ONET FRUITS — Card Matching Game</h3>
+      <p>A browser-based card matching game built with vanilla JavaScript. Implements async functions for the card flip mechanism.</p>
+      <p><a href="https://github.com/fauzanr23/Hacktiv8-Hackaton-ONET-FRUITS">Repo</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </p>
+      <ul>
+        <li>Async card flip mechanism with smooth animations</li>
+        <li>Pure vanilla JS — no frameworks</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/fauzan-rachmatullah/)
